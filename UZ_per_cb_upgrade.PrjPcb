@@ -270,20 +270,20 @@ Variation1=Designator=C6|UniqueId=\CRERABOF\JUELNWUM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=AuthorParam
+Value=Eyke Liegmann
 
 [Parameter2]
-Name=ProjectDate
-Value=05/2022
-
-[Parameter3]
 Name=Project
 Value=UZ_per_cb_upgrade
 
+[Parameter3]
+Name=ProjectDate
+Value=05/2022
+
 [Parameter4]
-Name=AuthorParam
-Value=Eyke Liegmann
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources
@@ -1308,14 +1308,14 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=UZOhm_Optical.SchLib
-ComponentDesignItemID0=
-ComponentSymbolReference0=TP_1mm
+ComponentDesignItemID0=C_0603
+ComponentSymbolReference0=C_0603
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=UZOhm_Optical.SchLib
-ComponentDesignItemID1=C_0603
-ComponentSymbolReference1=C_0603
+ComponentDesignItemID1=TP_1mm
+ComponentSymbolReference1=TP_1mm
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 FullReplace=1
