@@ -333,7 +333,7 @@ UniqueID=1F8D8C04-6B34-40DC-A006-BB3954C897A1
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
+VariationCount=11
 Variation1=Designator=C6|UniqueId=\CRERABOF\JUELNWUM|Kind=0|AlternatePart= 
 Variation2=Designator=R?|UniqueId=\JUZADMZE\JBBGRYMR|Kind=1|AlternatePart= 
 Variation3=Designator=R?|UniqueId=\JUZADMZE\DCIKDVIF|Kind=1|AlternatePart= 
@@ -343,6 +343,8 @@ Variation6=Designator=R?|UniqueId=\JUZADMZE\MDIZKUYM|Kind=1|AlternatePart=
 Variation7=Designator=R?|UniqueId=\JUZADMZE\FANALNNH|Kind=1|AlternatePart= 
 Variation8=Designator=R?|UniqueId=\JUZADMZE\IAOHDXAW|Kind=1|AlternatePart= 
 Variation9=Designator=R?|UniqueId=\JUZADMZE\YNLTSWDA|Kind=1|AlternatePart= 
+Variation10=Designator=R50|UniqueId=\CRERABOF\XANCMPIO|Kind=1|AlternatePart= 
+Variation11=Designator=D2|UniqueId=\CRERABOF\YOOVGOVS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
