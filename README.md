@@ -1,29 +1,14 @@
-# README #
+# APU Feature Extension Card for the UltraZohm's CarrierBoard/BaseSystem #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This PCB will add some crucial hardware peripherals to the existing systems by means of an extension board to be mounted within the chassis (but not using any of the A/D slots).
 
-### What is this repository for? ###
+### Feature List/Requests/Issues ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Low-level configuration storage: Cf. [Issue #124 in the UltraZohm CarrierBoard repo](https://bitbucket.org/ultrazohm/ultrazohm_carrierboard/issues/124/low-level-configuration-storage-ethernet)
+* Probably additional user interfaces (buttons/LEDs)
+* High-speed storage for OS, application and logs: Cf. [Issue #2 in this repository](https://bitbucket.org/ultrazohm/uz_per_rtc_mac/issues/2/ssd-integration-options)
 
-### How do I get set up? ###
+### How do I get set up? / Contribution guidelines / Who do I talk to? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Eyke and Martin
+* Feel free to open an issue here
