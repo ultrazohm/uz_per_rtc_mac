@@ -377,7 +377,7 @@ UniqueID=1F8D8C04-6B34-40DC-A006-BB3954C897A1
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=37
+VariationCount=43
 Variation1=Designator=C6|UniqueId=\CRERABOF\JUELNWUM|Kind=0|AlternatePart= 
 Variation2=Designator=R?|UniqueId=\JUZADMZE\JBBGRYMR|Kind=0|AlternatePart= 
 Variation3=Designator=R?|UniqueId=\JUZADMZE\DCIKDVIF|Kind=0|AlternatePart= 
@@ -415,6 +415,12 @@ Variation34=Designator=R14|UniqueId=\MVBPZGMP\XFLUPBYI|Kind=1|AlternatePart=
 Variation35=Designator=R11|UniqueId=\MVBPZGMP\IZQTEQVZ|Kind=1|AlternatePart= 
 Variation36=Designator=R61|UniqueId=\GAFRTYMU\GPVMBBVE|Kind=1|AlternatePart= 
 Variation37=Designator=X2|UniqueId=\GAFRTYMU\MBFMMGIB|Kind=1|AlternatePart= 
+Variation38=Designator=R48|UniqueId=\HUXWPFFP\EFEFGUKG|Kind=1|AlternatePart= 
+Variation39=Designator=R50|UniqueId=\HUXWPFFP\WNGJXNFK|Kind=1|AlternatePart= 
+Variation40=Designator=R24|UniqueId=\HUXWPFFP\OVQQHBKS|Kind=1|AlternatePart= 
+Variation41=Designator=R71|UniqueId=\HUXWPFFP\GOWTCHFG|Kind=1|AlternatePart= 
+Variation42=Designator=R?|UniqueId=\HUXWPFFP\GNHNUYIL|Kind=1|AlternatePart= 
+Variation43=Designator=R?|UniqueId=\HUXWPFFP\LOBZSZMM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
@@ -1505,16 +1511,10 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=mgeier.IntLib
-ComponentDesignItemID0=AZ1084CD-3.3TRG1
-ComponentSymbolReference0=AZ1084CD-3.3TRG1
+ComponentDesignItemID0=C_ELKO_8x10
+ComponentSymbolReference0=C_ELKO_8x10
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name Only
-ComponentLibraryIdentifier1=Altium Content Vault
-ComponentDesignItemID1=CMP-2000-07354-1
-ComponentSymbolReference1=TI-ULN2803A-SOIC_DW-18
-ComponentUpdate1=0
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1528,90 +1528,39 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Category
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Created
 ParameterUpdate2=1
-ParameterName3=ComponentLink1Description
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=ComponentLink1URL
+ParameterName4=Dielectric
 ParameterUpdate4=1
-ParameterName5=CompType
+ParameterName5=LCSC Part #
 ParameterUpdate5=1
-ParameterName6=Datasheet URL
+ParameterName6=Library Reference
 ParameterUpdate6=1
-ParameterName7=Datasheet Version
+ParameterName7=MPN
 ParameterUpdate7=1
-ParameterName8=Description
+ParameterName8=Package
 ParameterUpdate8=1
-ParameterName9=Dynamic Catalog
+ParameterName9=Supplier 1
 ParameterUpdate9=1
-ParameterName10=Family
+ParameterName10=Supplier Part Number 1
 ParameterUpdate10=1
-ParameterName11=IR Max
+ParameterName11=Tolerance
 ParameterUpdate11=1
-ParameterName12=LCSC Part #
+ParameterName12=Value
 ParameterUpdate12=1
-ParameterName13=Library Reference
+ParameterName13=Voltage
 ParameterUpdate13=1
-ParameterName14=Manufacturer
-ParameterUpdate14=1
-ParameterName15=Manufacturer URL
-ParameterUpdate15=1
-ParameterName16=Mounting Technology
-ParameterUpdate16=1
-ParameterName17=Mounting Type
-ParameterUpdate17=1
-ParameterName18=Number of Drivers/Receivers
-ParameterUpdate18=1
-ParameterName19=Other Names
-ParameterUpdate19=1
-ParameterName20=Package / Case
-ParameterUpdate20=1
-ParameterName21=Package Description
-ParameterUpdate21=1
-ParameterName22=Package Reference
-ParameterUpdate22=1
-ParameterName23=Package URL
-ParameterUpdate23=1
-ParameterName24=Package Version
-ParameterUpdate24=1
-ParameterName25=Packaging
-ParameterUpdate25=1
-ParameterName26=PartNumber
-ParameterUpdate26=1
-ParameterName27=PinCount
-ParameterUpdate27=1
-ParameterName28=Protocol
-ParameterUpdate28=1
-ParameterName29=Series
-ParameterUpdate29=1
-ParameterName30=Standard Package
-ParameterUpdate30=1
-ParameterName31=Supplier Device Package
-ParameterUpdate31=1
-ParameterName32=Type
-ParameterUpdate32=1
-ParameterName33=VF
-ParameterUpdate33=1
-ParameterName34=Voltage - Supply
-ParameterUpdate34=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=DPAK457P1010X238-3N
+ModelName0=CAPAE9083X105M
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=DW0018A_L
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=DW0018A_M
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=DW0018A_N
-ModelUpdate3=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
