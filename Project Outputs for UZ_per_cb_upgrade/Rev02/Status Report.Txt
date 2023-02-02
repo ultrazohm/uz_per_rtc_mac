@@ -1,0 +1,10 @@
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [Default] of PCB Document [UZ_per_cb_upgrade.PcbDoc]
+   Generated File[Pick Place for UZ_per_cb_upgrade(Default).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:34:36 On 27.12.2022
