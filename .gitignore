@@ -74,3 +74,18 @@ Thumbs.db
 *.wmv
 
 .allspice/
+
+EEPROM.Harness
+EEPROM_MAC.Harness
+RTC.Harness
+S2C.Harness
+S2C_IOs3V3.Harness
+S2C_IOsVIO.Harness
+SupplyMonitoring.Harness
+ThermalExtSens.Harness
+Top_sheet.Harness
+isoDebug-Connectors.Harness
+isoDebug-Isolation.Harness
+X10-Isolation.Harness
+X13-Isolation.Harness
+XMOD.Harness

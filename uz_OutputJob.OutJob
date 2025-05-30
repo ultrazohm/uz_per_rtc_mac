@@ -247,7 +247,7 @@ OutputEnabled8_OutputMedium10=2
 OutputEnabled8_OutputMedium11=0
 OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908318~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\ga92wum\git\UltraZohm\PCB\uz_per_rtc_mac\UZ_per_cb_upgrade.PcbDoc
+Configuration8_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=UCLDBVCQ|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16777220~1,16777221~1,16777223~1,16777222~1,16908318~1|PlotBoardProfile=False|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=C:\Users\ga92wum\git\UltraZohm\PCB\uz_per_rtc_mac\UZ_per_cb_upgrade.PcbDoc
 OutputType9=NC Drill
 OutputName9=NC Drill Files
 OutputCategory9=Fabrication
@@ -572,7 +572,7 @@ PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration14_Name1=ColumnNameFormat
 Configuration14_Item1=CaptionAsName
 Configuration14_Name2=General
-Configuration14_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=969|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration14_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1602|FormHeight=969|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration14_Name3=GroupOrder
 Configuration14_Item3=Comment=True|MPN=True|Footprint=True
 Configuration14_Name4=OutputConfigurationParameter1
@@ -580,9 +580,9 @@ Configuration14_Item4=??
 Configuration14_Name5=SortOrder
 Configuration14_Item5=Designator=Up
 Configuration14_Name6=VisibleOrder
-Configuration14_Item6=Quantity=56|Comment=116|Designator=107|MF=38|MPN=52|Value=102|Description=99|Footprint=149|Package=66|Voltage=51|Dielectric=59|LCSC Part #=85|JLCSMT Rotation=100
+Configuration14_Item6=Quantity=56|Comment=116|Designator=107|MF=38|MPN=52|Value=102|Description=99|Footprint=149|Package=66|Voltage=51|Dielectric=59|JLCSMT Rotation=100|Manufacturer Part Number=100|LCSC Part Number=100|Manufacturer=100
 Configuration14_Name7=VisibleOrder_Flat
-Configuration14_Item7=Quantity=56|Comment=116|Designator=107|MF=38|MPN=52|Value=102|Description=99|Footprint=149|Package=66|Voltage=51|Dielectric=59|LCSC Part #=85|JLCSMT Rotation=100
+Configuration14_Item7=Quantity=56|Comment=116|Designator=107|MF=38|MPN=52|Value=102|Description=99|Footprint=149|Package=66|Voltage=51|Dielectric=59|JLCSMT Rotation=100|Manufacturer Part Number=100|LCSC Part Number=100|Manufacturer=100
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\
@@ -624,7 +624,7 @@ OutputFileName3=OutputJob.PDF
 OutputFileNameMulti3=='SCH_' + ProjectName + '_' + VariantName + '_' + ProjectRevision
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
-OpenOutput3=1
+OpenOutput3=0
 PromptOverwrite3=1
 PublishMethod3=1
 ZoomLevel3=50
@@ -776,7 +776,7 @@ PDFVersion11=Default
 RelativeOutputPath2=Project Outputs for Free Documents\
 OpenOutputs2=0
 RelativeOutputPath3=\=ProjectRevision\
-OpenOutputs3=1
+OpenOutputs3=0
 RelativeOutputPath4=\
 OpenOutputs4=0
 RelativeOutputPath5=C:\Users\ga92wum\git\UltraZohm\PCB\uz_per_rtc_mac\Project Outputs for UZ_per_cb_upgrade\Rev01\
