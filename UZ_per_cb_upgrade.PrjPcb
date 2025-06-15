@@ -68,7 +68,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PSAPGVTX
 
 [Document2]
-DocumentPath=XMOD.SchDoc
+DocumentPath=Samtec_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -187,7 +187,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TYJIDROT
 
 [Document9]
-DocumentPath=XMOD.Harness
+DocumentPath=Samtec_Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -442,7 +442,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MAJFQWJG
 
 [Document24]
-DocumentPath=altium_subsheets\S3C_MuxJTAG.SchDoc
+DocumentPath=altium_subsheets\SxC_MuxJTAG.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -476,7 +476,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=altium_subsheets\S3C_MuxJTAG.Harness
+DocumentPath=altium_subsheets\SxC_MuxJTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
